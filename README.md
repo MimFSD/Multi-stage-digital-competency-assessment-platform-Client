@@ -4,11 +4,6 @@ This is a full-stack digital competency assessment platform designed to evaluate
 
 ---
 
-## 🚀 Live Demo
-
-🌐 [Live Site](https://your-deployment-link.com)
-
----
 
 ## 🧰 Tech Stack
 
@@ -95,6 +90,4 @@ Each user progresses through 3 stages of tests:
 - Block external navigation/input
 - Enable live video monitoring
 
----
 
-## 📂 Folder Structure (Frontend & Backend)
